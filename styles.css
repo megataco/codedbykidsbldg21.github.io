@@ -23,7 +23,7 @@ body{
     width: 33.33333333%;
 }
 #one{
-    background-color: blue;
+    background-color: red;
     height: 60px;
 }
 #two{
@@ -31,10 +31,10 @@ body{
     height: 630px;
 }
 #three{
-    background-color: red;
+    background-color: yellow;
     height: 300px;
 }
 #four{
     background-color: yellow;
     height: 690px;
-}
+} text color #00FF00
